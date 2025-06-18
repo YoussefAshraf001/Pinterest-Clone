@@ -56,10 +56,10 @@ To run this project locally:
 
 Once opened in a browser, you will see a fully functional landing page for an online business. It includes the following sections:
 
-. 🧭 Navigate using the custom navbar and sidebar.
-. ➕ Upload and manage pins.
-. 🧑‍💼 Log in via Google to access personalized features.
-. 🌍 Explore content with a Pinterest-style UI.
+- 🧭 Navigate using the custom navbar and sidebar.
+- ➕ Upload and manage pins.
+- 🧑‍💼 Log in via Google to access personalized features.
+- 🌍 Explore content with a Pinterest-style UI.
 
 ---
 
