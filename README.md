@@ -65,9 +65,7 @@ Once opened in a browser, you will see a fully functional landing page for an on
 
 ## 📸 Preview
 
-Here’s a preview of what the landing page looks like:
-
-![Landing Page](https://cdn.dribbble.com/users/700165/screenshots/9776995/media/61951dde98de59bd8ef5e3c4d4fc7ce5.png)
+**Preview coming soon...**
 
 ---
 
