@@ -29,7 +29,7 @@ This project is a fully responsive image-sharing web application inspired by Pin
 
 ## 🚀 Installation
 
-To run this project locally:
+To run this project locally
 
 1. Clone the repository:
    ```bash
@@ -41,7 +41,7 @@ To run this project locally:
    cd pinterest-clone
    ```
 
-3. Install dependencies::
+3. Install dependencies:
    ```bash
    npm install
    ```
